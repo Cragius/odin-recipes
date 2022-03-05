@@ -39,6 +39,7 @@ p, ul, ol {
 
 div {
     text-align: center;
+    display: inline;
 }
 
 img {

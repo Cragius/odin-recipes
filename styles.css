@@ -7,7 +7,8 @@ h1 {
     padding: 80px;
 }
 
-div {
+a {
+    display: block;
     color: purple;
     background-color: yellow;
     font-weight: bold;
